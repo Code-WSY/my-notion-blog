@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Sylearn Blog',
-  domain: 'blog.',
+  domain: 'blog.sylearn.cn',
   author: 'suyun',
 
   // open graph metadata (optional)
