@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Sylearn Blog',
-  domain: 'blog.sylearn.cn',
+  domain: 'righteous-silica-f82.notion.site',
   author: 'suyun',
 
   // open graph metadata (optional)
