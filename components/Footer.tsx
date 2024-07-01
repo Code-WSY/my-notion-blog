@@ -33,12 +33,11 @@ export const FooterImpl: React.FC = () => {
   React.useEffect(() => {
     setHasMounted(true)
   }, [])
-
+      // © 苏ICP备2024061215号
   return (
     <footer className={styles.footer}>
       <div className={styles.copyright}>Copyright {currentYear} {config.author}</div>
-      // © 苏ICP备2024061215号
-      <div className={styles.credits}> © 苏ICP备2024061215号 </div>
+      <div className={styles.copyright}> © 苏ICP备2024061215号 </div>
 
       <div className={styles.settings}>
         {hasMounted && (
