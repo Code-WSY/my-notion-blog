@@ -94,10 +94,9 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
   //   : publishedTime
   //   ? new Date(publishedTime)
   //   : undefined
-  //en-US zh-CN
   const date =
     isBlogPost && datePublished
-      ? `${datePublished.toLocaleString('zh-CN', {
+      ? `${datePublished.toLocaleString('en-US', {
           month: 'long'
         })} ${datePublished.getFullYear()}`
       : undefined
