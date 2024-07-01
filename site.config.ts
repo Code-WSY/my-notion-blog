@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '5e2e0a08957f4a16b5644fb7654e70a9',
+  rootNotionPageId: '70977a748819466685852151e8eb61fa',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Sylearn Blog',
-  domain: 'righteous-silica-f82.notion.site',
+  domain: 'fire-lyric-01e.notion.site',
   author: 'suyun',
 
   // open graph metadata (optional)
@@ -56,15 +56,15 @@ export default siteConfig({
   navigationLinks: [
      {
        title: 'About',
-       pageId: '6455b68e4ca64405a34124134da1c735'
+       pageId: '948aadce85d840bdb1109f3fab1b4291'
      },
      {
        title: 'Contact',
-       pageId: '040ee5a5c9cb4294b1de891ee1cae7ec'
+       pageId: '0b4ede4c5dd84d1886052af292c76a06'
      },
      {
       title: 'AI',
-      pageId: '4fe97aeb745b4051bd5ce4e66b5b5793'
+      pageId: 'c077d65d535d44d295bda522ffb61ebe'
     },
 
    ]
