@@ -64,6 +64,10 @@ export default siteConfig({
       title: 'AI',
       pageId: 'c077d65d535d44d295bda522ffb61ebe'
     },
+    {
+      title: 'Jupyter Lab',
+      pageId: 'dba6f61b4f0f481294050843e39a1ac9'
+    },
 
    ]
 })
