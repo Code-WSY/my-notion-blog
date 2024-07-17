@@ -57,7 +57,7 @@ export default siteConfig({
        pageId: '948aadce85d840bdb1109f3fab1b4291'
      },
      {
-       title: 'Contact',
+       title: 'Contacts',
        pageId: '0b4ede4c5dd84d1886052af292c76a06'
      },
      {
@@ -65,7 +65,7 @@ export default siteConfig({
       pageId: 'c077d65d535d44d295bda522ffb61ebe'
     },
     {
-      title: 'Jupyter Lab',
+      title: 'Notebook',
       pageId: 'dba6f61b4f0f481294050843e39a1ac9'
     },
 
